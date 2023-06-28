@@ -1,2 +1,4 @@
 # analog-clock
- Virtual Studio Project For AnalogClock
+
+<img src="image/clock.png" />
+
